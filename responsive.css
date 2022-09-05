@@ -1,0 +1,385 @@
+ /* responsive ? */
+
+ /* responsive  (max-width:1024px)*/
+
+ @media all and (max-width:1024px){
+    
+    #care-section p {
+        font-size: 18px;
+    }
+    }
+    
+    /* end responsive for (max-width:1024px)  */
+    
+
+
+
+
+    /* responsive  start (max-width:912px) */
+
+@media all and (max-width:912px){
+    #searchform{
+        margin-bottom: 4%;
+     }
+     #servicetext p {
+        font-size: 21px;
+     } 
+     #care-section p {
+        font-size: 17px;
+        
+      }
+      #love-animal p {
+       font-size: 20px;
+       
+      }
+      #banner-btn-4 {
+      margin-left: 45%;
+        
+}
+#border h4 {
+    font-size: 19px;
+    
+}
+#border1 h4 {
+    font-size: 19px;
+    
+}
+}
+
+/* end responsive for (max-width:912px)  */
+ 
+
+/* responsive  start (max-width:820px) */
+
+
+@media all and (max-width:820px){
+    #searchform{
+       margin-bottom: 4%;
+    }
+    #servicetext h1{
+        font-size: 28px;
+        
+    }
+    #servicetext p{
+        font-size: 19px; 
+    }
+    .text-center {
+        font-size: 23px;
+}
+#care-section p {
+    font-size: 15px;
+}
+#love-animal h1 {
+    font-size: 30px;
+}
+#love-animal p {
+    
+    font-size: 19px;
+}
+#banner-btn-4 {
+   margin-left: 40%;
+    margin-top: 24px
+
+}
+#border h4{
+    font-size: calc(1.275rem + -0.7vw);
+    padding-top: 10px;
+    
+}
+
+#border1 h4{
+    font-size: calc(1.275rem + -0.7vw);
+    padding-top: 10px;
+}
+#border1 {
+    padding-bottom: 37px;
+}
+}
+
+/* end responsive for (max-width:820px) */
+
+
+/* responsive  start (max-width:768px)*/
+
+@media all and (max-width:768px){
+    #bannertext p {
+        font-size: 17px;
+    }
+    #servicetext p {
+        font-size: 17px;
+    }
+    #care-section p {
+        font-size: 14px;
+    }
+    #care-section h3{
+        font-size: 21px;
+    }
+    #love-animal h1{
+        font-size: 26px;
+    }
+    #love-animal p{
+        font-size: 16px;
+    }
+    #border1 {
+        padding-bottom: 12px;
+    }
+    }
+
+/* end responsive for (max-width:768px) */
+
+/* start responsive for (max-width:540)  */
+@media all and (max-width:540px){
+    #serviceimg img {
+        padding-top: 0%;
+        padding-bottom: 5%;
+        padding-right: 14%;
+    }
+        
+#love-animal h1 {
+        font-size: 29px;
+        text-align: center;
+    }
+    #love-animal img {
+       padding-right: 14%;
+    }
+    .img-fluid {
+        padding-left: 15%;
+} 
+ #love-animal p {
+    font-size: 18px;
+    text-align: center;
+}
+
+#care-section p {
+    font-size: 19px;
+}
+#love-animal img {
+    padding-bottom: 0%;
+}
+#banner-btn-4 {
+    margin-bottom: 5%;
+}
+.btn {
+    margin-bottom: 5%;
+}
+.img-fluid h4{
+    padding-bottom: 5%;
+}
+.img-fluid {
+    padding-left: 0%;
+    margin-bottom: -4%;
+}
+
+.img-fluid {
+    padding-left: 14%;
+    margin-bottom: 5%;
+    margin-top: 5%;
+
+}
+#footer h4 {
+   font-size: 35px;
+}
+
+#footer a{
+    text-align: center;
+  
+   
+}
+}
+/* End responsive for (max-width:540)  */
+
+
+/*  start responsive   (max-width:414px)? */
+@media all and (max-width:414px){  
+    #searchbtn {
+    margin-bottom: 5%;
+      }
+
+#servicetext {
+    padding-top: 7%;
+    padding-bottom: 0%;
+    
+}
+#serviceimg img {
+    padding-top: 7%;
+    padding-bottom: 5%;
+}
+#banner-btn-3 {
+    margin-left: 113px;
+}
+#love-animal h1 {
+    font-size: 28px;
+    direction: ltr;
+    text-align: center;
+    margin-top: -14%;
+}
+#love-animal p{
+    text-align: center;
+    direction: ltr;
+}
+#banner-btn-4 {
+    margin-left: 36%;
+    margin-top: 5px;
+    margin-bottom: 5%;
+  }
+  
+
+#recent-blog {
+    font-size: 17px;
+}
+#border h4 {
+    font-size: calc(1.275rem + 2.3vw);
+    
+}
+#border1 h4{
+    font-size: calc(1.275rem + 2.3vw);   
+}
+
+#footer{
+    text-align: center;
+}
+#footer h4{
+    font-size: 25px; 
+    margin-top: 5%; 
+    margin-bottom: 5%; 
+}
+#footer a{
+    font-size: 15px;
+    
+}
+.text-end {
+    text-align: center!important;
+}
+#footer p {
+    font-size: 19px;
+    text-align: center;
+}
+
+#care-section img {
+    margin-left: -29px;
+  }
+}
+/* end responsive for(max-width:414px) */
+
+/*  responsive  start (max-width:412px) */
+
+@media all and (max-width:412px){
+    #searchbtn {
+        margin-bottom: 5%;
+}
+
+#love-animal img {
+    padding-bottom: 13%;
+}
+.img-fluid {
+    padding-left: 0%;
+    
+}
+#care-section img {
+    margin-left: 14px;
+}
+#social-icon1 {
+    margin-bottom: -4%;
+    margin-top: -14%;
+}
+}
+
+/* responsive  start (max-width:390px)  */
+@media all and (max-width:390px){
+    #serviceimg img {
+        padding-left: 10%;
+
+ }
+ #love-animal img {
+    padding-left: 10%;
+}
+}
+@media all and (max-width:428px){
+    #searchbtn {
+        margin-bottom: 5%;
+}
+#care-section img {
+  margin-left: -24px;
+  }
+
+  #contactus-section {
+    padding-bottom: 5%;
+  }
+  
+}
+/* responsive  end (max-width:390px) */
+
+/* End responsive  (max-width:412px) */
+
+
+/* responsive start (max-width:375px) */
+
+@media all and (max-width:375px){
+    #bannertext p {
+        font-size: 15px;
+    }
+}
+
+/* end responsive for(max-width:375px) */
+
+/* responsive  start (max-width:360px) */
+
+@media all and (max-width:360px){
+    #top-nav img{
+        height: 60px;
+        width: 190px;
+    }
+    #bannertext h1{
+        margin-top: 35px;
+    }
+    #bannertext p {
+        font-size: 15px;
+    }
+}
+
+/* end responsive for(max-width:360px)  */
+
+/*   start responsive (max-width:280px) */
+
+@media all and (max-width:280px){
+    .img-fluid {
+        padding-left: 2%;
+        margin-bottom: 5%;
+        margin-top: 5%;
+    }
+    #border h4 {
+        font-size: calc(1.275rem + .4vw);
+    }
+    #border1 h4 {
+        font-size: calc(1.275rem + .4vw);
+    }
+    p {
+        font-size: 11px;
+    }
+    #love-animal h1 {
+        font-size: 24px;
+    }
+    #care-section img {
+    padding-top: 6%;
+    margin-left: -4px;
+}
+#banner-btn-3 {
+    margin-left: 52px;
+}
+#bannertext h1 {
+    margin-top: 20px;
+    font-size: 25px;
+}
+#servicetext h1 {
+    font-size: 22px;
+}
+#top-nav img {
+    height: 49px;
+    width: 144px;
+}
+#searchbtn {
+    margin-top: 0%;
+    margin-bottom: 5%;
+}
+}
+/*  end responsive (max-width:280px) */

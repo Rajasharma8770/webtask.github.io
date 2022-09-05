@@ -1,0 +1,361 @@
+/* nav bar  */
+#top-nav{
+    background-color: #daac00 ;
+    padding: 0 7%;
+
+}
+
+
+.navbar-nav .nav-link.active, .navbar-nav .show .nav-link {
+    color: rgb(248 244 244);
+    font-size: 20px;
+    font-weight: bold;
+    padding-left: 30px;
+}
+
+
+
+#searchbtn{
+    background-color: #fcc302;
+    color:white;
+    border: 0;
+    border-radius: 0;
+    position: relative;
+    left: 9px;
+    box-shadow: 5px 5px 5px 0px #00000021;
+  
+}
+.btn {
+   
+    --bs-btn-color: white;
+    --bs-btn-bg: #00bec9;
+       
+}
+  
+
+#servicetext h1{
+    font-size: 25px;
+    font-weight: bold;
+}
+
+    /* banner */
+#banner{
+    background-color: #fcc302;
+    padding-bottom: 30px;
+    
+
+}
+
+#bannertext h1{
+    color: white;
+   margin-top: 100px;
+   font-size: 30px;
+   font-weight: bold;
+}
+#bannertext p{
+    color: white;
+    font-size: 19px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
+/* button */
+
+#banner-btn-1{
+    background-color: #00bec9;
+    border: 2px solid #00bec9;
+    
+
+}
+
+#banner-btn-2{
+  
+    border: 2px solid white;
+    background-color: #fcc302;
+    color: white;
+    margin-left: 15px;
+}
+
+
+/* service */
+
+#serviceimg img{
+    padding-top: 15%;   
+}
+
+
+#servicetext{
+    padding-top: 7%;
+    padding-bottom: 15%;
+}
+#servicetext h1{
+font-size:35px;
+margin-top: 30px;
+margin-bottom: 25px;
+font-weight: bold;
+}
+
+#servicetext p{
+    font-size: 24px;
+    margin-bottom: 25px;
+}
+#banner-btn-3{
+  
+    border: 2px solid white;
+    background-color: #fcc302;
+    color: white;
+    
+}
+
+#care-section{
+    background-color: #fcc302;
+    padding-bottom: 20px;
+}
+#care-section h1{
+    color: white;
+    font-size: 35px;
+    font-weight: bold;
+    padding-top: 2%;
+    padding-bottom: 20px;
+    
+}
+#care-section p{
+    font-size: 20px;
+    padding-bottom: 3%;
+        
+}
+
+#care-section{
+    font-size: 18px;
+    color: white;
+    
+}
+#care-section img{
+    padding-top: 6%;
+    margin-left: 24px;
+}
+
+
+/* love animal  */
+
+#love-animal h1{
+    font-size:35px;
+    font-weight: bold;
+    direction: rtl;
+    padding-top: 70px;
+    
+
+
+}
+#love-animal p{
+    padding-top: 20px;
+    font-size: 22px;
+    direction: rtl;
+}
+
+#love-animal img{
+    padding-top: 55px;
+    padding-bottom: 80px;
+}
+
+#banner-btn-4{
+    direction: rtl;
+    background-color: #fcc302;
+    color: white;
+    direction: rtl;
+    margin-left: 80%;
+   margin-top: 20px;
+   
+}
+
+#buy-section{
+    background-color: #fcc302;
+    color: white;
+    padding-top: 2.5%;
+    padding-bottom: 5%;
+}
+
+#buy-section h1{
+    font-weight: bold;
+    font-size: 35px;
+     
+}
+
+#buy-section p{
+    padding-bottom: 3%;   
+}
+
+#banner-btn-5{
+    background-color: #00bec9;
+    border: 2px solid #00bec9;
+   
+}
+
+/* doctor list  */
+
+#doctor-lst{
+    padding-top:6%;
+}
+
+#doctor-lst h1{
+    font-weight: bold;
+    font-size: 35px;
+}
+
+#doctor-lst p{
+ padding-bottom: 3%;
+}
+
+  /* social icon */
+
+#social-icon{
+    font-size:20px;
+    text-align: center;
+   margin-top: -20px;
+   padding-bottom: 15%;
+  
+}
+
+.bi-instagram{
+    color: #fcc302;
+}
+.bi-facebook{
+    color: #fcc302;
+}
+
+.bi-twitter{
+    color: #fcc302;  
+}
+.bi-whatsapp{
+    color: #fcc302;  
+}
+
+#counter{
+   background-image:url("image/man with dog color.jpg");
+   padding-top: 5%;
+   padding-bottom: 5%;
+   text-align: center;
+   /* color: white; */
+}
+
+#recent-blog h1 {
+    font-size: 35px;
+    text-align: center;
+    font-weight: bold;
+
+}
+ #recent-blog{
+    font-size: 18px;
+    text-align: center;
+    padding-top: 4%;
+    padding-bottom: 2.5%;
+ }
+
+#p1{
+    color: #00bec9;
+ }
+
+  #readmore{
+    color: #00bec9;
+   text-decoration: none;
+ }
+
+ #border{
+    border: 1px solid rgb(185, 185, 185);
+    padding-left: 20px;
+    border-top: 0px;
+    background-color:whitesmoke;
+    padding-bottom: 15px;
+    
+ }
+ #border1{
+   
+    padding-left: 20px;
+    background-color:whitesmoke;
+    padding-bottom: 15px;
+    
+ }
+
+ #blog{
+    padding-bottom:3%;
+ }
+
+
+
+ /* footer? */
+
+
+ #footer{
+    padding-top:2.5%;
+    background-color: #343434;
+    padding-bottom: 8%;
+ }
+ #footer h4{
+    color: white;
+ }
+    
+    
+ 
+
+ #footer a{
+    color: white;
+ }
+
+ #footer p{
+    color: white;  
+ }
+
+ #social-icon1{
+    direction: rtl;
+    font-size: 20px;
+    text-decoration-color: white;
+
+ }
+
+
+ #color1{
+    color:white;   
+ }
+
+
+ /* Contact us section  */
+ 
+
+
+ /* hover  */
+ .dropdown-item ::after{
+    position: absolute;
+    background-color: rgb(249, 249, 249);
+    cursor: pointer;
+  }
+  .dropdown-item:hover{
+    color: white;
+    background-color: #fcc300;
+    cursor: pointer;
+  }
+  
+  
+
+  /* .dropdown-item a .hover {
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.dropdown-item a.hover:hover {
+    text-decoration:underline;
+    cursor: pointer;
+} */
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
